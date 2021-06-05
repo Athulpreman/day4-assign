@@ -1,1 +1,1 @@
- web: python Day4_Assignment.py && streamlit run Day4_Assignment.py
+ web: python Day4_Assignment.pygit
